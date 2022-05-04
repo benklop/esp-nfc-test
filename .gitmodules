@@ -1,0 +1,6 @@
+[submodule "components/esp-idf-mfrc522"]
+	path = components/esp-idf-mfrc522
+	url = git@github.com:benklop/esp-idf-mfrc522.git
+[submodule "components/esp-idf-ndef"]
+	path = components/esp-idf-ndef
+	url = git@github.com:benklop/esp-idf-ndef.git
